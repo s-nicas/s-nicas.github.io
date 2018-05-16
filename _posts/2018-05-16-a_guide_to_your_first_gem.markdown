@@ -17,10 +17,11 @@ Questions upon questions!  Here are some answers and helpful tips on how to atta
 ##  Do your homework
 
 Don’t go into this blind. Take some time - a few hours maybe - reading about gem creation. Here are a few questions to keep in mind while researching:
-What is a gem?
-Why are gems helpful?
-How to create a gem?
-How are gems installed?
+
+* What is a gem?
+* Why are gems helpful?
+* How to create a gem?
+* How are gems installed?
 
 There are many great resources online to answer these questions.
 
