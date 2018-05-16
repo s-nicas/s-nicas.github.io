@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " A Guide to Your First Gem"
-date:       2018-05-16 05:22:16 +0000
+date:       2018-05-16 01:22:17 -0400
 permalink:  a_guide_to_your_first_gem
 ---
 
@@ -36,7 +36,7 @@ It’s okay to update your plan
 Don’t stress out if things don’t turn out as you planned. This is gem numero uno for you! It is likely that you’ll run into things you didn’t expect or that some methods won’t work out as planned. Heck, you will likely run into issues on your 200th gem. As with everything, be kind to yourself. Unless you are a fortune teller, you can’t plan for the unexpected. Update that plan - and keep on moving! (But don’t go tossing out the entire plan!)
  
  
- ## Edit yourself
+##  Edit yourself
 
 Hurray! Everything is finally working! Now... go back and break it all to make it pretty. Our first goal is to get everything working. Our second goal is to get everything working and looking cohesive. 
 
