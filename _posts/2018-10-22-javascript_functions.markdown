@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Functions"
-date:       2018-10-22 20:18:30 +0000
+date:       2018-10-22 16:18:31 -0400
 permalink:  javascript_functions
 ---
 
@@ -28,8 +28,8 @@ Above is a basic example of a function declaration. Let's work our way through t
 * Next is the name of the function. In the example above, greeting is the name of the function. 
 * The set of parentheses () holds our parameters.
 * The curly brackets {} encloses our statements. Our statement is the code that will be executed once the function is evoked. 
-
-Function declarations are also known as function statements. Function declarations are hoisted. Meaning you can call the function before it is defined. 
+* Function declarations are also known as **function statements**. 
+* Function declarations are hoisted. Meaning you can call the function before it is defined. 
 
 That’s it for function declarations. Simple enough!
 
@@ -54,9 +54,9 @@ greeting('Sonia')
 
 Let’s walk through the above. 
 
-We invoke a function by 
-* Stating the name of the function.
-* Followed by parenthesis () Our parenthesis will hold our arguments. In this example my argument is my name: Sonia. 
+We invoke a function by
+1. Stating the name of the function.
+1. Followed by parenthesis () Our parenthesis will hold our arguments. In this example my argument is my name: Sonia. 
 
 That’s it! Once our function is invoked our program will return 
 
@@ -72,11 +72,11 @@ This brings up another important concept that I want to touch on before I return
  
 I’ve heard many people use these two concepts interchangeably -- but they shouldn’t. They are two different terms.  
 
-Parameters are variables in functions definition, while arguments are the actual values passed into the function when invoking the function.
+Parameters are variables in functions, while arguments are the actual values passed into the function when invoking the function.
 
 In our greeting function example, **name** is my parameter, while **Sonia** is my argument. 
 
-One last look at an example before we move on:
+Here is a quick visual:
 
 ```
 function name(parameters){
@@ -110,9 +110,8 @@ var greeting = function(name){
 * Another thing that should stand out in the above example is the function has no name. It is an anonymous function! 
 * Function expressions can be named. However, the name would only be accessible within the body of the function scope. It cannot be accessed outside of the function. 
 * Function expressions are not hoisted, meaning they cannot be called before they are defined. 
-* Function expressions also have to be invoked. 
 
-To invoke our function expression we would do so like this:
+* To invoke our function expression we would do so like this:
 ```
 greeting("Sonia")
 ```
