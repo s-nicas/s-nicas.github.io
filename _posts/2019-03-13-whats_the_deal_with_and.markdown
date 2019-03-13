@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What's the deal with == and === ?"
-date:       2019-03-13 20:46:17 +0000
+date:       2019-03-13 16:46:20 -0400
 permalink:  whats_the_deal_with_and
 ---
 
@@ -11,10 +11,10 @@ What is the difference between triple equals and double equals?
 
 Let’s first start off with what they have in common: **both == and === are used for equality comparisons**. 
 
-```
-7 == 7 // true
-7 === 7 // true 
-```
+
+`7 == 7 // true`
+`7 === 7 // true `
+
 
 **How are they different? **
 
