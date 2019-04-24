@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Linting tools "
-date:       2019-04-24 23:08:11 +0000
+date:       2019-04-24 19:08:12 -0400
 permalink:  javascript_linting_tools
 ---
 
@@ -21,11 +21,11 @@ They are generally easy to install and simple to navigate. The biggest benefit i
 
 Popular Linters are: 
 
-JSLint
-ESLint
-JSHint
-JSCS
-Standard JS
+* JSLint
+* ESLint
+* JSHint
+* JSCS
+* Standard JS
 
 Happy coding! 
 
