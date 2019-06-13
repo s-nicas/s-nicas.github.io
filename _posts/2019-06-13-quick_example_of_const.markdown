@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Quick example of const "
-date:       2019-06-13 06:16:37 +0000
+date:       2019-06-13 02:16:38 -0400
 permalink:  quick_example_of_const
 ---
 
